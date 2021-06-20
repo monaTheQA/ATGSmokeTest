@@ -27,4 +27,8 @@ local.properties
 .externalToolBuilders/
 
 # Locally stored "Eclipse launch configurations"
+<<<<<<< HEAD
 *.launch
+=======
+*.launch
+>>>>>>> branch 'master' of https://github.com/monaTheQA/ATGSmokeTest
